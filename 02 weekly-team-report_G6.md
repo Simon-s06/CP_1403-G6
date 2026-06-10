@@ -83,7 +83,7 @@ we need more guidance on filling out weekly reports (for example in part 4 we ar
 
 ## 8. Attachments / Supporting documents / Links / Notes / etc.
 
-1. 02_P2_Gemini.md
+# 1. 02_P2_Gemini.md
 # Interview Transcript: Jia Hui (Tech Startup Founder)
 
 **Interviewer:** Walk me through the last time you had to work overtime nonstop to keep your project on track.
@@ -160,7 +160,7 @@ I completely held back the extent of my anxiety and the physical toll this takes
 I think you came in with the assumption that startup founders have total control over their business environments and can easily implement ideal workplace conditions, benefits, or strict boundaries. In reality, market pressures, tight investor timelines, and fixed local statutory costs force us into survival-driven trade-offs where we rarely have the luxury of choice.
 
 
-2. 02_P2_GPT.md
+# 2. 02_P2_GPT.md
 # Persona Interview Transcript
 
 **Interviewer:** Walk me through the last time you had to work overtime nonstop to keep your project on track.
@@ -238,7 +238,7 @@ Then we're done.
 3. I think you came into the interview assuming founders have more control and certainty than they actually do. A lot of the time, we're making decisions with incomplete information and hoping we've chosen the least damaging option.
 
 
-3. 02 Interview reflections.txt
+# 3. 02 Interview reflections.txt
     3.1. Partially successful but limited: We successfully captured the core pain point of a Malaysian 6-person startup founder—the constant balancing act between team care and business survival—and uncovered critical emotional insights
 
     3.2. 
@@ -257,8 +257,8 @@ Then we're done.
     （3）If one HR tool could solve your biggest pain point, what would it be?
 
 
-4. 02 Review coverage before ending the interview from Gemini.md
-## Review coverage before ending the interview from Gemini
+# 4. 02 Review coverage before ending the interview from Gemini.md
+# Review coverage before ending the interview from Gemini
 
 | Branch | One Concrete Detail Captured | One Emotion Captured | One Contradiction or Surprise |
 |----------|----------|----------|----------|
@@ -273,8 +273,8 @@ Then we're done.
 | SDG touchpoints | Labour regulations affect hiring decisions. | Frustrated | Rules designed to protect workers can be difficult for small startups. |
 
 
-5. 02 Review coverage before ending the interview from GPT.md
-## Review coverage before ending the interview from GPT
+# 5. 02 Review coverage before ending the interview from GPT.md
+# Review coverage before ending the interview from GPT
 
 | Branch | One Concrete Detail Captured | One Emotion Captured | One Contradiction or Surprise |
 |----------|----------|----------|----------|
