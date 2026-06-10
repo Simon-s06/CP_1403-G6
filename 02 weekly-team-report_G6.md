@@ -47,7 +47,6 @@ I checked the task process and conveyed task information to the three absent tea
 I was responsible for the “Interview Reflections” section. I documented how the interview went, identified which questions worked well, analyzed how we could have gained deeper insights, and suggested additional questions to improve future sessions.
 
 - **[Xijie Dong]** [Present: N] [Contributed: Yes]:
-
 I went through Jia Hui's interview transcript and used the details to fill out the whole Coverage Checklist table. I also finished the Interview Insights part, including her motivations, frustrations, and how she handles the team.
 
 - **[Yuheng Song]** [Present: Y] [Contributed: Yes]:
