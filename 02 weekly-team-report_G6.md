@@ -1,4 +1,4 @@
-# Weekly Team Report Template
+# Weekly Team Report
 
 **Team Name:** ___6___
 
