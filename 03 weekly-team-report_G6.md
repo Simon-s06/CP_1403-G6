@@ -40,7 +40,7 @@
 (Each member writes their own ~3 lines)
 
 - **[Jiahao Dong]** [Present: Y] [Contributed: Yes]:
-
+ This week, I participated in the compilation of interview records for the gimini version, collaborated with Xijie Dong to summarize and analyze the interviews with Jia Hui, and came up with the "03 Jiahui N&QGemini. md", And the requirements, pain points, and supplementary questions were imported and organized, completing the jia hui persona analysis (Gemini) section
 
 - **[Minghao Zhou]** [Present: Y] [Contributed: Yes]:
   This week, I went through all of Jia Hui's interview records, sorted out her core needs and real daily headaches as a small startup founder, and designed a set of practical follow-up questions to dig deeper into her actual work and management experiences.
