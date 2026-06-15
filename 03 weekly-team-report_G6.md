@@ -42,8 +42,8 @@
 - **[Jiahao Dong]** [Present: Y] [Contributed: Yes]:
 
 
-- **[Minghao Zhou]** [Present: N] [Contributed: Yes]:
-
+- **[Minghao Zhou]** [Present: Y] [Contributed: Yes]:
+  This week, I went through all of Jia Hui's interview records, sorted out her core needs and real daily headaches as a small startup founder, and designed a set of practical follow-up questions to dig deeper into her actual work and management experiences.
 
 - **[Xijie Dong]** [Present: N] [Contributed: Yes]:
 
