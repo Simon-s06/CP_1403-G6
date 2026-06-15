@@ -20,18 +20,18 @@
 
 (3-5 bullets)
 
-- We completed this class's character interview according to the instructions in the "Persona Interviews" document. We used two different AI systems to input the same content, and obtained two different responses from the AI systems.
+- This week, we made changes based on the feedback provided by the teacher last week. We combined all the files into one document and resubmitted the report for the second week.
 
-- According to the instructions in the document, our group member Jiahao Dong proposed the questions based on the previous background investigation. Member Yuheng Song then input the questions into the AI, and after the interview, organized and labeled the AI's responses and exported them to a folder.
+- According to the teacher's instructions on the whiteboard, since only four people attended this practical class, we decided to divide into two groups. "Yuheng Song and Minghao Zhou" would analyze the responses of GPT Jia Hui, while "Jiahao Dong and Xijie Dong" would analyze the responses of Gemini Jia Hui.
 
-- After the interview, group member Xijie Dong summarized and improved the table "review coverage before ending the interview" based on the interview content. Minghao Zhou completed the four questions in the interview reflections and filled in the completion status of our task on Figma
+- By combining our analyses, the following conclusion was drawn.
 
 ## 2. Key Decisions We Made
 
-- **Decision 1:** The division of labor among the group members has been determined.
-  **Why:** Because we believe that effective and clear division of labor can enhance the efficiency of the work of our group members.
-- **Decision 2:**  Among the numerous AI models available on the market, we have selected GPT and Gemini as the AI models for our interviewees.
-  **Why:** We chose GPT and Gemini because they are the most popular and advanced AI models on the market today. They represent the highest level of AI technology from OpenAI and Google. 
+- **Decision 1:** We decided to divide into two groups to analyze the responses of two different models.
+  **Why:** Because we believe that by using two different models, we can arrive at two distinct conclusions or very similar conclusions.
+- **Decision 2:** 
+  **Why:** 
 - **Decision 3:**  
   **Why:**
 
@@ -40,21 +40,18 @@
 (Each member writes their own ~3 lines)
 
 - **[Jiahao Dong]** [Present: Y] [Contributed: Yes]:
-I have summarized the previous background check and proposed 10 usable questions based on the standards in SDGs and Empathy document
-I checked the task process and conveyed task information to the three absent team members, arranging their respective tasks (completing interview reflections and review coverage)
+
 
 - **[Minghao Zhou]** [Present: N] [Contributed: Yes]:
-I was responsible for the “Interview Reflections” section. I documented how the interview went, identified which questions worked well, analyzed how we could have gained deeper insights, and suggested additional questions to improve future sessions.
+
 
 - **[Xijie Dong]** [Present: N] [Contributed: Yes]:
-I went through Jia Hui's interview transcript and used the details to fill out the whole Coverage Checklist table. I also finished the Interview Insights part, including her motivations, frustrations, and how she handles the team.
+
 
 - **[Yuheng Song]** [Present: Y] [Contributed: Yes]:
-This week, only two group members, Yuheng Song and Jiahao Dong, attended the practical session. Under these circumstances, Jiahao Dong and I briefly divided the tasks, with him proposing the interview questions and me entering them into GPT and Gemini. I was also responsible for exporting the AI-generated responses, labeling each persona in the document (CP1403_P2_Gemini.md
-and CP1403_P2_GPT.md), and writing Sections 1 and 2 of the report, including "What We Completed This Week", "where We Got  Stuck" and "Key Decisions We Made."
+This week, during class and with the group members, we discussed and assigned tasks. I and Minghao Zhou summarized and analyzed Jia Hui's answers to GPT and reached the following conclusions. Then I wrote the first three items of "1. What We Completed This Week" in the report, as well as the second item of "2. Key Decisions We Made".
 
-- **[Zhiheng Zhou]** [Present: N] [Contributed: Yes]:Summarize the tasks in this week's group and fill in the content that needs to be filled in on the website.
-
+- **[Zhiheng Zhou]** [Present: N] [Contributed: Yes]:
 
 ## 4. Design Thinking Board
 
