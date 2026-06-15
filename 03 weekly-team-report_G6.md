@@ -24,7 +24,7 @@
 
 - According to the teacher's instructions on the whiteboard, since only four people attended this practical class, we decided to divide into two groups. "Yuheng Song and Minghao Zhou" would analyze the responses of GPT Jia Hui, while "Jiahao Dong and Xijie Dong" would analyze the responses of Gemini Jia Hui.
 
-- By combining our analyses, the following conclusion was drawn.
+- After analyzing the responses of the two different models, we all reflected on the results.
 
 ## 2. Key Decisions We Made
 
