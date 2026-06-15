@@ -64,11 +64,12 @@ This week, during class and with the group members, we discussed and assigned ta
 (Section numbers in the Miro that you have started or changed this week)
 
 ## 5. Where We Got Stuck
-- 
+- Although we obtained some useful data from the first interview, we felt that his explanation was rather broad. Therefore, we proposed some supplementary interview questions for the GPT model.
 ## 6. What We Need from the Teacher
 
 ## 7. Our Plan for Next Week
-
+- So in the next week's class, we will follow the same process as last week. We will have two people in each group, one asking questions and the other inputting the answers into the AI. We will conduct supplementary interviews for both the GPT and Gemini models separately.
+- 
 (3 bullets)
 
 ## 8. Attachments / Supporting documents / Links / Notes / etc.
