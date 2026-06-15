@@ -176,7 +176,7 @@ These problems are connected and are the main challenges Jia Hui faces as a smal
 * Why: Why do you always prioritize compliance when it conflicts with cost control? Have you ever thought about "simplifying compliance temporarily to cut costs"? Why didn't you do this in the end?
 * How do you feel: Do you feel helpless facing the dilemma that "compliance raises costs, but cost control risks breaking rules"? Does this conflict add to your mental burden?
 
-**2. 03 JiaHui N&Q _ Gemini.md**
+**3. 03 JiaHui N&Q _ Gemini.md**
 # Jia Hui Persona Analysis(Gemini)
 
 ## Needs
@@ -232,7 +232,7 @@ These problems are connected and are the main challenges Jia Hui faces as a smal
 
 These extreme financial gambles and the physical toll of startup survival form the major pain points Jia Hui faces as she races against a shrinking runway.
 
-**Supplementary Interview Questions**
+**4.03 Supplementary Interview Questions_Gemini**
 
 1\. Team Work & Overtime
 
