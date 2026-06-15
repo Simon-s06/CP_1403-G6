@@ -45,7 +45,7 @@
 - **[Minghao Zhou]** [Present: Y] [Contributed: Yes]:
   This week, I went through all of Jia Hui's interview records, sorted out her core needs and real daily headaches as a small startup founder, and designed a set of practical follow-up questions to dig deeper into her actual work and management experiences.
 
-- **[Xijie Dong]** [Present: N] [Contributed: Yes]:
+- **[Xijie Dong]** [Present: Y] [Contributed: Yes]:
    This week, I teamed up with Jiahao Dong to analyze Gemini's interview responses for Jia Hui. We extracted her core needs, pain points, and user requirements, contributing to the creation of the 03 JiaHui N&Q_Gemini.md document. We also designed a set of supplementary interview questions to dig deeper into the persona's managerial and personal challenges.
 
 - **[Yuheng Song]** [Present: Y] [Contributed: Yes]:
@@ -70,7 +70,8 @@ This week, during class and with the group members, we discussed and assigned ta
 
 ## 7. Our Plan for Next Week
 - So in the next week's class, we will follow the same process as last week. We will have two people in each group, one asking questions and the other inputting the answers into the AI. We will conduct supplementary interviews for both the GPT and Gemini models separately.
-- 
+- Next week, we will conduct a more in-depth interview with Jiahua based on the needs and pain points summarized this week, to understand how she hopes her needs will be addressed
+- Next week, we will obtain relevant data in addition to interviews, such as searching for experiences of similar challenges on the Internet, consulting literature, thinking and discussing, finding the root causes of problems, and summarizing solutions
 (3 bullets)
 
 ## 8. Attachments / Supporting documents / Links / Notes / etc.
@@ -137,10 +138,10 @@ This week, during class and with the group members, we discussed and assigned ta
 
 ### Jia Hui's Biggest Challenges
 
-* **Not enough money (cash flow)**
-* **Not enough people (manpower)**
-* **Not enough time (overtime)**
-* **Too much stress (anxiety)**
+* **Not enough money**
+* **Not enough people**
+* **Not enough time**
+* **Too much stress**
 
 These problems are connected and are the main challenges Jia Hui faces as a small startup founder.
 
