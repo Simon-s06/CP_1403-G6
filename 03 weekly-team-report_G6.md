@@ -29,9 +29,9 @@
 ## 2. Key Decisions We Made
 
 - **Decision 1:** We decided to divide into two groups to analyze the responses of two different models.
-- **Why:** Because we believe that by using two different models, we can arrive at two distinct conclusions or very similar conclusions.
-- **Decision 2:** 
-  **Why:** 
+  **Why:** Because we believe that by using two different models, we can arrive at two distinct conclusions or very similar conclusions.
+- **Decision 2:** We used GitHub as a reference to synchronize the data and collaborate on editing.
+  **Why:** This enables quick and efficient organization and synchronization of information, and can also reflect the progress of the team members.
 - **Decision 3:**  
   **Why:**
 
