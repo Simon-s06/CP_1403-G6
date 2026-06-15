@@ -49,7 +49,7 @@
 
 
 - **[Yuheng Song]** [Present: Y] [Contributed: Yes]:
-This week, during class and with the group members, we discussed and assigned tasks. I and Minghao Zhou summarized and analyzed Jia Hui's answers to GPT and reached the following conclusions "Jia Hui Persona Analysis". Then I wrote the first three items of "1. What We Completed This Week" in the report, as well as the second item of "2. Key Decisions We Made".
+This week, during class and with the group members, we discussed and assigned tasks. I and Minghao Zhou summarized and analyzed Jia Hui's answers to GPT and reached the following conclusions "03 Jia Hui Persona Analysis.md". Then I wrote the first three items of "1. What We Completed This Week" in the report, as well as the second item of "2. Key Decisions We Made".
 
 - **[Zhiheng Zhou]** [Present: N] [Contributed: Yes]:
 
@@ -123,7 +123,7 @@ This week, during class and with the group members, we discussed and assigned ta
 | The system should create reports to help with hiring and staffing decisions.         |
 
 
-**2. 03 Supplementary Interciew Quick**
+**2. 03 Supplementary Interciew Questions_GPT.md**
 ## Summary
 
 ### Jia Hui's Core Needs
