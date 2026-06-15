@@ -29,7 +29,7 @@
 ## 2. Key Decisions We Made
 
 - **Decision 1:** We decided to divide into two groups to analyze the responses of two different models.
-  **Why:** Because we believe that by using two different models, we can arrive at two distinct conclusions or very similar conclusions.
+- **Why:** Because we believe that by using two different models, we can arrive at two distinct conclusions or very similar conclusions.
 - **Decision 2:** 
   **Why:** 
 - **Decision 3:**  
