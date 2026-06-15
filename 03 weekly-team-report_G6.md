@@ -75,7 +75,7 @@ This week, during class and with the group members, we discussed and assigned ta
 ## 8. Attachments / Supporting documents / Links / Notes / etc.
 
 **1. 03 Jia Hui Persona Analysis.md**
-# Jia Hui Persona Analysis
+# Jia Hui Persona Analysis（GPT）
 
 ## Needs
 
@@ -175,3 +175,95 @@ These problems are connected and are the main challenges Jia Hui faces as a smal
 * Why: Why do you always prioritize compliance when it conflicts with cost control? Have you ever thought about "simplifying compliance temporarily to cut costs"? Why didn't you do this in the end?
 * How do you feel: Do you feel helpless facing the dilemma that "compliance raises costs, but cost control risks breaking rules"? Does this conflict add to your mental burden?
 
+**2. 03 JiaHui N&Q _ Gemini.md**
+# Jia Hui Persona Analysis(Gemini)
+
+## Needs
+
+| Need                                            | Interview Evidence
+|-------------------------------------------------|------------------------------------------------------------|
+| Hire senior tech talent with limited funds      | She had to offer equity stakes to get senior devs from corporate jobs because her runway is tight.  |
+| Speed up payroll & statutory calculations       | She spends her entire morning on the 25th manually calculating EPF, SOCSO, and EIS on a spreadsheet.|
+| Meet project deadlines and preserve cash        | If one developer gets stuck on a bug, it delays the release and burns through their cash faster.    |
+| Maintain team morale & transparency financially | She tells her team that offering flexible remote hours instead of better medical benefits.          |
+| Track daily operational expenses safely         | She has to cover unexpected costs like cloud server spikes, plus Grab rides and late-night dinners. |
+| Adopt alternative team compensation solutions.  | Delayed payments forced her to fire a designer, freeze overtime claims, and suspend yearly bonuses. |
+
+## Pain Points
+
+| Pain point                                          | Interview Evidence
+|-----------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Physical exhaustion from endless crisis management  | She and her developers lived in the office for 48 hours to fix a crashed database.                  |
+| Hidden employment costs deplete funds               | Local statutory costs add 13% to 15%, making a RM 9,000 hire cost over RM 10,000.                   |
+| Layoffs & benefit cuts caused by cash flow issues   | Delayed payments forced her to fire a designer, freeze overtime claims, and suspend yearly bonuses. |
+| Team burnout: defective code, bugs and low morale   | staff made coding mistakes, forcing them to spend two weeks fixing bugs in a silent, tense office.  |
+| Overburdened founder amid staff shortage            | She had to take over design prototyping on top of coding and investor pitches.                      |
+| Mental distress: anxiety, panic attacks and insomnia| She suffers from chest tightness and panic attacks but drinks lots of caffeine to appear confident  |
+
+## Core Problem Statement
+
+**As a tech startup founder with a rapidly shrinking runway, Jia Hui carries the brutal financial and emotional weight of keeping her company alive. She struggles to balance high-cost talent acquisition, strict local employment laws, and severe team burnout, all while secretly battling personal anxiety and panic attacks.**
+
+## User Requirements
+| User Requirements                                                                                                                    |
+|--------------------------------------------------------------------------------------------------------------------------------------|
+| The system should automate statutory deductions (EPF, SOCSO, EIS) to save time on monthly payroll.                                   |
+| The system should accurately forecast the real cost of a new hire, including hidden statutory fees.                                  |
+| The system should track project bottlenecks and task reassignments to prevent delays.                                                |
+| The system should monitor team working hours to prevent the kind of extreme burnout that leads to poor code quality.                 |
+| The system should easily record ad-hoc operational costs (like Grab rides, team dinners, server spikes) for tighter budget tracking. |
+
+## Summary
+
+### Jia Hui's Core Needs
+
+* **Extend the financial runway:** Manage every ringgit carefully without compromising the product.
+* **Prevent bug-causing burnout:** Push the team for deadlines without causing exhaustion that leads to sloppy work.
+* **Simplify tedious manual admin:** Automate payroll and statutory calculations to free up her mornings.
+* **Emotional and structural support:** Find a way to reduce the "free-falling" feeling and manage her panic attacks.
+
+### Jia Hui's Biggest Challenges
+
+* The Hidden Cost of Talent
+* Vulnerability to Cash Flow Delays
+* The Burnout Backlash
+* The Silent Burden
+
+These extreme financial gambles and the physical toll of startup survival form the major pain points Jia Hui faces as she races against a shrinking runway.
+
+**Supplementary Interview Questions**
+
+1\. Team Work & Overtime
+
+*What measures did you take to help the team get back on track after mistakes caused by overtime? How effective were they?
+*When employees are overloaded with work, what other solutions have you tried besides taking over some tasks yourself?
+*Do you organize simple team activities to help everyone relax amid long-term heavy workloads?
+
+2\. Cash Flow & Labor Costs
+
+*How do you urge clients to settle overdue payments?
+*Given the high statutory employment expenses, have you considered other ways to cut costs?
+*How do you communicate with employees immediately when there are risks of delayed salary payments?
+
+3\. Staff Management & Retention
+
+*Do you worry about potential problems arising from equity distribution when using equity to attract talents?
+*Besides flexible working hours, what other benefits do you offer to retain employees?
+*Do you analyze the reasons for resignations and adjust your management approaches after staff leave?
+
+4\. Compliance & Daily Operations
+
+*Have you ever made calculation errors when processing salaries and statutory contributions manually?
+*How do local labor laws that restrict staff adjustments affect your recruitment plans?
+*To cut expenses, have you ever considered temporarily simplifying compliance procedures?
+
+5\. Personal Work & Well-being
+
+*Have you ever delayed important work due to juggling multiple roles and tasks?
+*When you are under great stress and feeling unwell, how do you keep daily management running smoothly?
+*Do you turn to others for advice when facing difficult personnel decisions?
+
+Additional Questions 
+*How to reduce team overtime while ensuring work efficiency?
+*How to make adjustments when statutory benefits fail to meet employees' needs?
+*What methods can be used to boost employees' work motivation?
