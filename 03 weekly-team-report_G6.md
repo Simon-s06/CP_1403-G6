@@ -46,7 +46,7 @@
   This week, I went through all of Jia Hui's interview records, sorted out her core needs and real daily headaches as a small startup founder, and designed a set of practical follow-up questions to dig deeper into her actual work and management experiences.
 
 - **[Xijie Dong]** [Present: N] [Contributed: Yes]:
-
+   This week, I teamed up with Jiahao Dong to analyze Gemini's interview responses for Jia Hui. We extracted her core needs, pain points, and user requirements, contributing to the creation of the 03 JiaHui N&Q_Gemini.md document. We also designed a set of supplementary interview questions to dig deeper into the persona's managerial and personal challenges.
 
 - **[Yuheng Song]** [Present: Y] [Contributed: Yes]:
 This week, during class and with the group members, we discussed and assigned tasks. I and Minghao Zhou summarized and analyzed Jia Hui's answers to GPT and reached the following conclusions "03 Jia Hui Persona Analysis.md". Then I wrote the first three items of "1. What We Completed This Week" in the report, as well as the second item of "2. Key Decisions We Made".
