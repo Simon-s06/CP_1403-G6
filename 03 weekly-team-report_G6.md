@@ -52,6 +52,7 @@
 This week, during class and with the group members, we discussed and assigned tasks. I and Minghao Zhou summarized and analyzed Jia Hui's answers to GPT and reached the following conclusions "03 Jia Hui Persona Analysis.md". Then I wrote the first three items of "1. What We Completed This Week" in the report, as well as the second item of "2. Key Decisions We Made".
 
 - **[Zhiheng Zhou]** [Present: N] [Contributed: Yes]:
+ I raised follow-up questions to collect more valuable information, covering what had happened, the underlying causes and people’s feelings. This is the key contribution I made to finish this week’s coursework.
 
 ## 4. Design Thinking Board
 
