@@ -1,8 +1,9 @@
+```mermaid
 classDiagram
-
-User --> Favourite
-Favourite --> Movie
-Movie --> Tag
-Admin --> Movie
-Recommendation --> User
-Recommendation --> Movie
+    User "1" --> "*" Favourite
+    Favourite "*" --> "1" Movie
+    Movie "*" --> "*" Tag
+    Admin --> Movie : manages
+    Recommendation --> User
+    Recommendation --> Movie
+```
