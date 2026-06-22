@@ -1,0 +1,60 @@
+2.4 User Journey Map
+Journey Scenario
+Managing a database crash before an important beta release
+ 
+Step Names
+1.	Prepare for beta release
+
+2.	Monitor sprint progress
+
+3.	Discover database crash
+
+4.	Assess the emergency
+
+5.	Begin emergency overtime
+
+6.	Redistribute workload
+
+7.	Complete the beta release
+
+8.	Manage the aftermath
+Category	Step 1: Prepare for beta release	Step 2: Monitor sprint progress	Step 3: Discover database crash	Step 4: Assess the emergency	Step 5: Begin emergency overtime	Step 6: Redistribute workload	Step 7: Complete the beta release	Step 8: Manage the aftermath
+Activities	Plans the beta milestone and checks the remaining company runway.	Reviews sprint tasks with the team at 9:30 AM.	Finds that the database has crashed before the release.	Checks the damage, deadline and available team members.	Works with the team for 48 hours to rewrite the database schema.	Reassigns tasks and takes additional work herself.	Tests the system and releases the beta version.	Fixes new bugs and responds to employee burnout.
+Goals	Complete the beta release and support the next funding round.	Keep every task on schedule.	Understand how serious the technical problem is.	Find the fastest way to protect the release deadline.	Restore the database before the milestone.	Prevent one employee from becoming a bottleneck.	Meet the deadline and maintain investor confidence.	Restore team performance and reduce further damage.
+Touchpoints	Financial spreadsheet, product roadmap and investors.	Shared digital board, developers and morning meetings.	Database system, developers and error reports.	Team discussion, code repository and deadline plan.	Office, computers, cloud servers, Mamak delivery and iced coffee.	One-to-one discussions, shared task board and team members.	Testing environment, beta product and investors.	Bug reports, employee feedback and the office environment.
+Experience	Worried but focused.	Alert and pressured.	Shocked and overwhelmed.	Anxious and afraid of failure.	Extremely tired and stressed.	Concerned and under pressure.	Relieved but exhausted.	Guilty, frustrated and burned out.
+Positives	The team has a clear milestone.	Work progress is visible every day.	The problem is discovered before the final release.	The team quickly understands the priority.	Team members cooperate closely during the emergency.	Important tasks receive immediate support.	The beta milestone is completed on time.	Jia Hui learns that excessive overtime creates long-term problems.
+Negatives	Only around four months of runway remain.	A delay from one developer may affect the whole release.	The database crash threatens the funding round.	There is not enough time or staff to respond comfortably.	Employees work continuously for 48 hours and suffer serious fatigue.	Reassigned work increases pressure on the rest of the small team.	Heavy testing increases cloud costs and physical exhaustion.	Burnout, low morale and coding mistakes continue for several weeks.
+Experience Line
+1.	Focused
+
+2.	Pressured
+
+3.	Shocked
+
+4.	Anxious
+
+5.	Overwhelmed
+
+6.	Concerned
+
+7.	Relieved
+
+8.	Burned out
+Journey Stages
+Leading to the Issue
+•	Step 1: Prepare for beta release
+
+•	Step 2: Monitor sprint progress
+Immediately Before the Issue
+•	Step 3: Discover database crash
+
+•	Step 4: Assess the emergency
+Experiencing the Issue
+•	Step 5: Begin emergency overtime
+
+•	Step 6: Redistribute workload
+Past the Issue
+•	Step 7: Complete the beta release
+
+•	Step 8: Manage the aftermath
