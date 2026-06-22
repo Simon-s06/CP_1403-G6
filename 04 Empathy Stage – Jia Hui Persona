@@ -134,3 +134,193 @@ Potential Biases or Assumptions
 The interview and empathy map were useful because they revealed Jia Hui’s financial pressure, emotional stress, and responsibility for her employees. The questions helped identify important problems such as high hiring costs, employee burnout, limited cash flow, and investor pressure. However, the research only focused on one founder, so it may not represent every startup. The process could be improved by interviewing employees, other startup founders, HR professionals, and investors. Future interviews should also use more follow-up questions and ask participants to rank their most serious problems.
 
 Source: Interview transcript and interview coverage review provided for the Jia Hui persona.
+
+
+
+改版
+
+# 2.5 Ecosystem/Stakeholder Map
+
+## Person
+
+### Jia Hui
+
+A technology startup founder who manages strategy, payroll, recruitment, employee workload, product delivery, and company survival.
+
+---
+
+## Immediate Interactions
+
+### Employees and Developers
+
+* Complete coding, testing, and product-development tasks.
+* Report workload problems and technical bottlenecks.
+* Their performance and well-being directly affect product delivery.
+
+### Investors
+
+* Provide the next funding opportunity.
+* Expect Jia Hui to meet product milestones.
+* Their expectations increase pressure on deadlines and team performance.
+
+### Clients
+
+* Provide business income and milestone payments.
+* Delayed payments directly affect company cash flow.
+* Their deadlines influence staffing and workload decisions.
+
+---
+
+## Indirect Interactions
+
+### Job Candidates
+
+* Expect competitive salaries and secure employment conditions.
+* Senior candidates may require high salaries or equity.
+* Hiring them creates major financial risk for the startup.
+
+### Cloud Service Providers
+
+* Provide testing, hosting, and deployment services.
+* Heavy testing can increase monthly costs by RM3,000 to RM4,000.
+* Higher cloud costs reduce the company’s limited runway.
+
+### Legal and Employment Framework
+
+* Includes employment contracts and equity agreements.
+* Jia Hui must handle complicated legal discussions herself.
+* Legal requirements reduce flexibility when hiring or reducing staff.
+
+---
+
+## Remote Connections
+
+### EPF, SOCSO and EIS Organisations
+
+* Require statutory employment contributions.
+* Add approximately 13% to 15% above base salary.
+* Increase the real monthly cost of each employee.
+
+### Local Labour Market
+
+* Senior developers in Kuala Lumpur require competitive salaries.
+* A developer paid RM9,000 may cost the company more than RM10,000 monthly.
+* High market salaries make recruitment difficult.
+
+### Local Startup Community
+
+* Other founders experience similar funding and staffing pressure.
+* The community may provide advice, shared experience, and emotional support.
+
+---
+
+## Logic Connections
+
+### Connection A: Client Payment and Cash Flow
+
+**Clients → Jia Hui → Employees**
+
+A client delays a milestone payment. Jia Hui experiences immediate cash-flow pressure and must reduce manpower costs. This leads to layoffs, frozen overtime claims, and suspended bonuses.
+
+### Connection B: Workload and Burnout
+
+**Jia Hui ↔ Employees and Developers**
+
+Jia Hui assigns tasks through the shared digital board and holds one-to-one meetings when employees fall behind. She may absorb extra tasks herself, but task redistribution also increases pressure on the remaining team. This can result in burnout, coding mistakes, low morale, and employees logging off exactly at 6:00 PM.
+
+### Connection C: Employment Costs and Recruitment
+
+**EPF/SOCSO/EIS → Jia Hui → Job Candidates**
+
+Statutory contributions increase the real cost of hiring. Jia Hui must repeatedly calculate whether the company can afford another employee. Because cash salaries are limited, she may offer equity and flexible working arrangements to attract experienced candidates.
+
+### Connection D: Product Delivery and Funding
+
+**Employees → Cloud Services → Jia Hui → Investors**
+
+The team uses cloud systems to test and deliver the product. During the database crisis, heavy testing increases cloud costs. Jia Hui pushes the team to complete the beta milestone because missing it may damage investor confidence and threaten the next funding round.
+
+---
+
+# 2.6 Review of Empathy Results
+
+## Stakeholder Interaction Points
+
+### Verify Your Observations
+
+### 1. Employees’ Workload Capacity
+
+Interview the remaining employees to verify whether task redistribution actually reduces pressure or simply transfers the workload to other team members. Examine whether heavier workloads increase mistakes, stress, and burnout.
+
+### 2. Employment Cost and Compliance
+
+Consult HR, finance, or labour-law professionals to confirm the real impact of EPF, SOCSO, EIS, employment contracts, and equity arrangements. Explore whether compliant and flexible compensation structures could reduce immediate cash-flow pressure.
+
+### 3. Founder Mental and Emotional Pressure
+
+Interview other local startup founders to determine whether panic, sleep problems, hidden anxiety, and late-night financial checking are common. Examine whether founder stress affects staffing, financial, and deadline decisions.
+
+---
+
+## Summary of Key Decision Rationales
+
+### Why Jia Hui Was Selected
+
+Jia Hui was selected as the main persona because she makes the final decisions about recruitment, payroll, workload, deadlines, staff benefits, layoffs, and funding survival. In her six-person startup, most operational and emotional pressure is concentrated on her.
+
+### Main Conflict
+
+The central conflict is:
+
+**Employee well-being and sustainable work conditions
+versus
+the startup’s financial survival under a limited runway.**
+
+### Central Theme
+
+The main theme is financial runway pressure. Jia Hui has only around four months of funding remaining, so delays, employment costs, cloud bills, and client payments directly influence her daily decisions.
+
+---
+
+## Takeaways from the Empathy Stage
+
+### 1. Hiring Decisions Are Financial and Emotional
+
+Hiring or removing an employee is not only a cost decision. Jia Hui feels personally responsible for employees’ livelihoods and experiences guilt when financial pressure forces her to let someone go.
+
+### 2. Extreme Overtime Creates Hidden Business Costs
+
+The 48-hour emergency effort helped the team complete the beta milestone, but it later caused burnout, low morale, coding mistakes, and additional time spent fixing bugs. Meeting one deadline created longer-term productivity problems.
+
+### 3. Small Startups Need Connected Management Tools
+
+Jia Hui needs a simple tool that connects:
+
+* Employee salaries and statutory costs
+* Cloud and operating expenses
+* Remaining cash runway
+* Workload and employee capacity
+* Product milestones and delay risks
+
+Using separate spreadsheets and task boards makes it difficult to understand how one decision affects the whole startup.
+
+---
+
+## Potential Biases and Assumptions
+
+### 1. Single-Participant Bias
+
+The findings come mainly from one founder. Jia Hui was interviewed during a period of serious financial and workload pressure, so some experiences may represent an extreme situation rather than normal startup operations.
+
+### 2. Founder-Only Perspective
+
+Employees, the dismissed designer, clients, and investors were not directly interviewed. Jia Hui’s explanation of employee burnout, communication quality, and investor pressure may not fully represent their views.
+
+### 3. Assumption About Task Redistribution
+
+The research may assume that moving tasks between employees is a useful solution. In a small team, redistribution may only transfer stress and increase pressure on everyone else.
+
+### 4. Assumption About Labour Regulations
+
+The interview presents employment regulations mainly as a financial burden. Further research should also consider how these regulations protect employees and support fair employment conditions.
+
