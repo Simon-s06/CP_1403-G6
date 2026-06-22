@@ -143,104 +143,115 @@ Source: Interview transcript and interview coverage review provided for the Jia 
 
 ## Person
 
-### Jia Hui
-
-A technology startup founder who manages strategy, payroll, recruitment, employee workload, product delivery, and company survival.
+**Jia Hui**
 
 ---
 
 ## Immediate Interactions
 
-### Employees and Developers
-
-* Complete coding, testing, and product-development tasks.
-* Report workload problems and technical bottlenecks.
-* Their performance and well-being directly affect product delivery.
-
-### Investors
-
-* Provide the next funding opportunity.
-* Expect Jia Hui to meet product milestones.
-* Their expectations increase pressure on deadlines and team performance.
-
-### Clients
-
-* Provide business income and milestone payments.
-* Delayed payments directly affect company cash flow.
-* Their deadlines influence staffing and workload decisions.
+* **Employees**
+* **Investors**
+* **Clients**
 
 ---
 
 ## Indirect Interactions
 
-### Job Candidates
-
-* Expect competitive salaries and secure employment conditions.
-* Senior candidates may require high salaries or equity.
-* Hiring them creates major financial risk for the startup.
-
-### Cloud Service Providers
-
-* Provide testing, hosting, and deployment services.
-* Heavy testing can increase monthly costs by RM3,000 to RM4,000.
-* Higher cloud costs reduce the company’s limited runway.
-
-### Legal and Employment Framework
-
-* Includes employment contracts and equity agreements.
-* Jia Hui must handle complicated legal discussions herself.
-* Legal requirements reduce flexibility when hiring or reducing staff.
+* **Job Candidates**
+* **Cloud Providers**
 
 ---
 
 ## Remote Connections
 
-### EPF, SOCSO and EIS Organisations
-
-* Require statutory employment contributions.
-* Add approximately 13% to 15% above base salary.
-* Increase the real monthly cost of each employee.
-
-### Local Labour Market
-
-* Senior developers in Kuala Lumpur require competitive salaries.
-* A developer paid RM9,000 may cost the company more than RM10,000 monthly.
-* High market salaries make recruitment difficult.
-
-### Local Startup Community
-
-* Other founders experience similar funding and staffing pressure.
-* The community may provide advice, shared experience, and emotional support.
+* **EPF / SOCSO / EIS**
+* **Labour Market**
 
 ---
 
 ## Logic Connections
 
-### Connection A: Client Payment and Cash Flow
+### 1. Clients → Jia Hui
 
-**Clients → Jia Hui → Employees**
+**Delayed payment**
 
-A client delays a milestone payment. Jia Hui experiences immediate cash-flow pressure and must reduce manpower costs. This leads to layoffs, frozen overtime claims, and suspended bonuses.
+### 2. Investors → Jia Hui
 
-### Connection B: Workload and Burnout
+**Funding pressure**
 
-**Jia Hui ↔ Employees and Developers**
+### 3. Jia Hui → Employees
 
-Jia Hui assigns tasks through the shared digital board and holds one-to-one meetings when employees fall behind. She may absorb extra tasks herself, but task redistribution also increases pressure on the remaining team. This can result in burnout, coding mistakes, low morale, and employees logging off exactly at 6:00 PM.
+**Task assignment**
 
-### Connection C: Employment Costs and Recruitment
+### 4. Employees → Jia Hui
 
-**EPF/SOCSO/EIS → Jia Hui → Job Candidates**
+**Workload feedback**
 
-Statutory contributions increase the real cost of hiring. Jia Hui must repeatedly calculate whether the company can afford another employee. Because cash salaries are limited, she may offer equity and flexible working arrangements to attract experienced candidates.
+Combined connection:
 
-### Connection D: Product Delivery and Funding
+**Jia Hui ↔ Employees**
 
-**Employees → Cloud Services → Jia Hui → Investors**
+### 5. Employees → Cloud Providers
 
-The team uses cloud systems to test and deliver the product. During the database crisis, heavy testing increases cloud costs. Jia Hui pushes the team to complete the beta milestone because missing it may damage investor confidence and threaten the next funding round.
+**Product testing**
+
+### 6. Cloud Providers → Jia Hui
+
+**Higher costs**
+
+### 7. Labour Market → Job Candidates
+
+**High salary expectations**
+
+### 8. Job Candidates → Jia Hui
+
+**Hiring pressure**
+
+### 9. EPF / SOCSO / EIS → Jia Hui
+
+**Extra employment costs**
 
 ---
+
+## Final Placement
+
+### Centre
+
+* **Jia Hui**
+
+### Immediate Interactions Circle
+
+* **Employees**
+* **Investors**
+* **Clients**
+
+### Indirect Interactions Circle
+
+* **Job Candidates**
+* **Cloud Providers**
+
+### Remote Connections Circle
+
+* **EPF / SOCSO / EIS**
+* **Labour Market**
+
+---
+
+## Main Arrow Structure
+
+```text
+Clients → Jia Hui
+
+Investors → Jia Hui
+
+Jia Hui ↔ Employees
+
+Employees → Cloud Providers → Jia Hui
+
+Labour Market → Job Candidates → Jia Hui
+
+EPF / SOCSO / EIS → Jia Hui
+```
 
 # 2.6 Review of Empathy Results
 
