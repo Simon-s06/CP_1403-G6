@@ -1,303 +1,278 @@
-下面内容全部围绕已经确定的 PoV：
-
-> **Jia Hui is worried about the company’s financial issues.**
-
-可以直接填写到 4.0 Ideate 的便利贴中。
-
-# 4.1 How Might We?
-
-每个便利贴填写一个问题：
-
-1. **How might we help Jia Hui reduce unnecessary company costs?**
-2. **How might we help Jia Hui improve the company’s cash flow?**
-3. **How might we help Jia Hui find suitable investors?**
-4. **How might we help the company increase stable income?**
-5. **How might we reduce the cost of hiring employees?**
-6. **How might we help Jia Hui manage payroll more easily?**
-7. **How might we reduce high cloud service costs?**
-8. **How might we help Jia Hui receive customer payments on time?**
-9. **How might we help the company attract more customers?**
-10. **How might we help Jia Hui make better financial decisions?**
-11. **How might we reduce the company’s daily operating expenses?**
-12. **How might we help Jia Hui balance product development and cost?**
-
-## Clustering of HMW Questions
-
-可以分成四组：
-
-### Cluster 1: Cost Control
-
-* Reduce unnecessary company costs
-* Reduce hiring costs
-* Reduce cloud service costs
-* Reduce daily operating expenses
-
-### Cluster 2: Funding and Cash Flow
-
-* Improve cash flow
-* Find suitable investors
-* Manage payroll
-* Make better financial decisions
-
-### Cluster 3: Income and Customers
-
-* Increase stable income
-* Receive customer payments on time
-* Attract more customers
-
-### Cluster 4: Product and Resources
-
-* Balance product development and cost
-
-建议选择的主要 HMW：
-
-> **How might we help Jia Hui improve the company’s cash flow and reduce unnecessary costs?**
-
-# 4.2 Brainwriting “8-3-2”
-
-每位成员填写三个想法。
-
-## Member 1
-
-1. Use a simple financial dashboard.
-2. Set a monthly spending limit.
-3. Track all company expenses weekly.
-
-## Member 2
-
-1. Find new investors through startup events.
-2. Apply for government startup grants.
-3. Prepare a clearer funding proposal.
-
-## Member 3
-
-1. Offer customers early-payment discounts.
-2. Use deposits before starting projects.
-3. Send automatic payment reminders.
-
-## Member 4
-
-1. Reduce unnecessary cloud services.
-2. Use cheaper software tools.
-3. Allow more remote work to reduce office costs.
-
-## Member 5
-
-1. Outsource temporary work instead of hiring full-time staff.
-2. Use interns for simple tasks.
-3. Share employees across different project roles.
-
-## Member 6
-
-1. Introduce a monthly subscription plan.
-2. Offer paid premium product features.
-3. Create service packages for small businesses.
-
-# 4.3 AI-assisted Ideas
-
-可以填写以下 AI 生成的想法：
-
-1. Create an AI-based cash-flow forecast.
-2. Use automatic expense categorisation.
-3. Build a customer payment reminder system.
-4. Recommend cheaper cloud service plans.
-5. Predict months with possible cash shortages.
-6. Match the startup with suitable investors.
-7. Identify unnecessary recurring expenses.
-8. Analyse which customers provide the most income.
-
-可以在说明框中写：
-
-> **We used AI to generate additional ideas for improving Jia Hui’s company finances. AI suggested solutions related to cash-flow prediction, expense tracking, customer payments, cloud costs, and investor matching.**
-
-# 4.4 Take Stock and Expand with SCAMPER
-
-## Substitute
-
-1. Replace expensive software with free tools.
-2. Replace full-time hiring with project-based workers.
-3. Replace office meetings with online meetings.
-
-## Combine
-
-1. Combine payroll and expense tracking in one system.
-2. Combine customer payment reminders with invoicing.
-3. Combine product sales with support services.
-
-## Adapt
-
-1. Adapt subscription models used by other startups.
-2. Adapt remote working to reduce office expenses.
-3. Adapt early-payment discounts for customers.
-
-## Modify
-
-1. Modify product packages for different customer budgets.
-2. Modify the company budget every month.
-3. Modify employee roles to reduce repeated work.
-
-## Put to Other Use
-
-1. Sell unused product features as separate services.
-2. Use company data to create market reports.
-3. Use existing technology for new customer groups.
-
-## Eliminate
-
-1. Eliminate unused software subscriptions.
-2. Eliminate unnecessary office expenses.
-3. Eliminate product features that customers do not use.
-
-## Reverse
-
-1. Ask customers to pay a deposit before development.
-2. Let customers choose features before the company builds them.
-3. Test the product with customers before spending more money.
-
-## SCAMPER 中间的 PoV
-
-> **Jia Hui is worried about the company’s financial issues.**
-
-# 4.5 Voting
-
-建议投票选择三个最可行的想法：
-
-### Idea 1
-
-> **Create a simple financial dashboard to track cash flow and expenses.**
-
-### Idea 2
-
-> **Ask customers to pay a deposit and use automatic payment reminders.**
-
-### Idea 3
-
-> **Reduce unnecessary software, cloud, and office costs.**
-
-最终选择的主要方案：
-
-> **A simple financial management system that tracks cash flow, controls expenses, and reminds customers to make payments.**
-
-选择原因：
-
-> **This idea is practical, affordable, and directly responds to Jia Hui’s financial problems.**
+可以。下面根据最终方案 **Attracting Foreign Investment**，以及你已经确定的4.7故事板，重新整理 **4.6、4.8和4.9**。内容全部围绕“通过线上平台连接外国投资者”。
 
 # 4.6 Six Thinking Hats
 
-## Blue Hat — Process and Planning
+## Blue Hat — Process
 
-1. Define the company’s main financial goals.
-2. Review income and expenses every week.
-3. Assign clear financial responsibilities.
-4. Evaluate the results every month.
+> Identify the company’s funding needs.
+> Find a suitable online investment platform.
+> Prepare and upload company information.
+> Contact investors and arrange presentations.
+> Review investor feedback and follow up.
 
-## Red Hat — Feelings and Emotions
+## Red Hat — Feelings
 
-1. Jia Hui feels anxious about running out of money.
-2. She feels responsible for employee salaries.
-3. She worries about losing the company.
-4. A clearer system may make her feel safer.
+> Jia Hui feels worried about the company’s financial problems.
+> She feels nervous when presenting to foreign investors.
+> She may feel disappointed if investors reject her idea.
+> Successful investment can make her feel confident and hopeful.
 
 ## Yellow Hat — Benefits
 
-1. Better control of company spending.
-2. More stable cash flow.
-3. Less financial stress for Jia Hui.
-4. Better preparation for future growth.
+> Foreign investment can improve the company’s cash flow.
+> The company can hire more skilled employees.
+> More funding can support product development.
+> Foreign investors may provide international business connections.
+> The online platform makes it easier to find suitable investors.
 
 ## White Hat — Facts and Information
 
-1. The company has limited cash flow.
-2. Employee costs include salary, EPF, SOCSO, and EIS.
-3. Cloud services create additional monthly costs.
-4. Delayed customer payments reduce company income.
+> Jia Hui’s company has limited cash flow.
+> The company needs funding for employees and business development.
+> Investors need clear financial data and a growth plan.
+> Jia Hui must upload an accurate company profile.
+> A clear business presentation can help investors understand the company.
 
 ## Black Hat — Risks and Problems
 
-1. The system may cost money to develop.
-2. Financial predictions may not always be accurate.
-3. Employees may forget to update information.
-4. Customers may still delay payments.
+> Investors may reject the business proposal.
+> Jia Hui may need to give away part of the company’s ownership.
+> Some online investors may not be reliable.
+> Financial and company information may have privacy risks.
+> Language and cultural differences may cause communication problems.
 
-## Green Hat — New Ideas
+## Green Hat — Creative Ideas
 
-1. Use AI to predict future cash shortages.
-2. Create automatic customer payment reminders.
-3. Recommend cheaper cloud services.
-4. Connect the company with suitable investors.
+> Create a bilingual company profile.
+> Add a short product demonstration video.
+> Use AI to match the company with suitable foreign investors.
+> Provide an online meeting and presentation function.
+> Add investor verification to improve trust.
+> Include automatic translation for messages and documents.
 
 ## Most Important Observations
 
-在右边绿色框中填写：
+填写右侧绿色总结框：
 
-> **The main solution should be simple, affordable, and easy for Jia Hui to use. It should help her monitor cash flow, reduce unnecessary costs, and receive customer payments more quickly.**
-
-# 4.7 Storyboard
-
-## Trigger Action
-
-> Jia Hui receives a warning that the company may not have enough money for next month’s payroll.
-
-## Journey Step 1
-
-> She opens the financial management system and checks the company’s current cash flow.
-
-## Journey Step 2
-
-> The system identifies high expenses, unused subscriptions, and delayed customer payments.
-
-## Journey Step 3
-
-> Jia Hui cancels unnecessary expenses and sends automatic payment reminders to customers.
-
-## Conclusion
-
-> The company receives payments earlier, reduces monthly costs, and improves its financial stability.
-
-## Storyboard场景说明
-
-> **The storyboard presents Jia Hui using a simple financial management system. The system helps her identify unnecessary costs, monitor company income, and remind customers about delayed payments. As a result, Jia Hui has better control of the company’s finances and feels less pressure.**
-
-没问题，这就帮你把内容精简，改成更符合学生写便利贴/白板的**短句风格**，更加干练自然。
-
-直接复制这些内容填进去：
-
-### 4.8 Review of ideate results (构思结果回顾)
-
-**1. Stakeholder Interaction point (Verify your Ideas selection) - 黄色框**
-
-> Stakeholder agreed on the simple financial dashboard. It fixes the cash flow problem directly without high development costs.
-
-**2. Summary of selected Ideas rationals - 深橙色框**
-
-> It is practical, affordable, and directly targets Jia Hui’s main problems: tracking cash and chasing payments. 
-> 
-> 
-
-**3. Takeaways form Ideate stage - 蓝色框**
-
-> Complex tech adds stress. The solution must be simple, cheap, and easy for Jia Hui to use daily. 
-> 
-> 
-
-**4. Rational from storyboard - 浅橙色框**
-
-> Early cash-flow warnings + actionable steps (like auto-reminders) = less anxiety for Jia Hui. 
-> 
-> 
-
-**5. 绿色大提示框 (Describe your Ideate results...)**
-
-> We generated various ideas, from cost-cutting to new revenue models. The simple financial dashboard won because it directly prevents payroll shortages and has a very low learning curve. 
-> 
-> 
+> **The solution should help Jia Hui safely connect with suitable foreign investors. She needs a clear company profile, accurate financial data, a growth plan, and a simple way to present her business online.**
 
 ---
 
-### 4.9 Review of ideate process (构思过程反思)
+# 4.8 Selected Concept Development
 
-**绿色大提示框 (Describe your Ideate process...)**
+## Concept Name
 
-> We started with HMW questions to focus on costs and cash flow. We used "8-3-2 Brainwriting" for quantity, AI for tech-driven concepts, and SCAMPER for out-of-the-box thinking. Finally, the Six Thinking Hats helped us evaluate ideas both logically and emotionally. While AI gave us innovative ideas, we ultimately prioritized feasibility and simplicity. 
-> 
->
+> **Foreign Investor Connection Platform**
+
+## Selected Idea
+
+> **An online platform that helps Jia Hui find and connect with suitable foreign investors.**
+
+## Concept Description
+
+> **The platform allows Jia Hui to upload her company profile, financial data, growth plan, and business idea. It then helps her find suitable foreign investors and communicate with them online.**
+
+## Main User
+
+> **Jia Hui, a startup founder who needs more funding to grow her company.**
+
+## Main Features
+
+1. **Company Profile Upload**
+   Jia Hui can upload information about her company, team, product, and business goals.
+
+2. **Financial Data Section**
+   She can provide company income, expenses, funding needs, and growth estimates.
+
+3. **Growth Plan Upload**
+   Jia Hui can explain how the investment will support future company development.
+
+4. **Investor Matching**
+   The platform recommends foreign investors based on industry, funding amount, and business interests.
+
+5. **Online Presentation**
+   Jia Hui can present her business idea to investors through video meetings.
+
+6. **Messaging and Follow-up**
+   She can contact investors, answer questions, and follow up after meetings.
+
+7. **Language Support**
+   The platform can provide English templates or translation support.
+
+8. **Investor Verification**
+   Investor profiles can be checked to reduce the risk of unreliable or fake investors.
+
+## How the Concept Works
+
+> **First, Jia Hui creates an account and uploads her business profile, financial data, and growth plan. The platform matches her company with suitable foreign investors. She then contacts the investors and presents her business idea online. Finally, an interested investor can discuss the investment terms with her.**
+
+## How It Helps Jia Hui
+
+> **This platform gives Jia Hui more opportunities to find funding outside the local market. It can improve the company’s cash flow, support product development, and reduce her financial pressure.**
+
+## Possible Limitations
+
+> **The platform cannot guarantee successful investment. Jia Hui must provide accurate information, protect sensitive company data, and carefully review investment conditions before accepting an offer.**
+
+---
+
+# 4.9 Review of Ideate Results and Process
+
+如果4.9有两个不同的填写区域，可以分成下面两部分。
+
+## 4.9 Review of Ideate Results
+
+> **Our group selected attracting foreign investment as the final idea. The proposed concept is an online platform that connects Jia Hui with suitable foreign investors. Through the platform, she can upload her company profile, financial data, and growth plan, and then present her business idea to investors. This solution may improve the company’s cash flow and provide more resources for future growth.**
+
+更短版本：
+
+> **We selected an online foreign investment platform as the final concept. It helps Jia Hui share her business information, find suitable investors, and present her company online. The concept may provide more funding and support company growth.**
+
+## 4.9 Review of Ideate Process
+
+> **During the Ideate stage, our group used HMW questions, brainwriting, AI-assisted ideas, SCAMPER, voting, Six Thinking Hats, and storyboarding. These activities helped us generate and compare different solutions to Jia Hui’s financial problem. After voting, we selected attracting foreign investment because it directly responds to the company’s need for more funding.**
+
+> **The Six Thinking Hats activity helped us consider the facts, benefits, risks, emotions, process, and creative features of the idea. The storyboard then showed the complete user journey, from Jia Hui needing more money to finding an online platform, uploading company information, meeting investors, and successfully receiving investment.**
+
+更短版本：
+
+> **We used several ideation methods to generate and compare solutions. After voting, we selected attracting foreign investment. Six Thinking Hats helped us examine the benefits and risks, while the storyboard showed how Jia Hui could use an online platform to find investors and receive funding.**
+可以，下面是中文翻译。
+
+# 4.6 六顶思考帽
+
+## 蓝帽——流程
+
+> 确定公司的资金需求。
+> 寻找合适的线上投资平台。
+> 准备并上传公司信息。
+> 联系投资者并安排商业展示。
+> 查看投资者反馈并继续跟进。
+
+## 红帽——感受
+
+> Jia Hui 对公司的财务问题感到担忧。
+> 向外国投资者展示公司时，她会感到紧张。
+> 如果投资者拒绝她的想法，她可能会感到失望。
+> 成功获得投资会让她更有信心和希望。
+
+## 黄帽——好处
+
+> 外国投资可以改善公司的现金流。
+> 公司可以招聘更多有能力的员工。
+> 更多资金可以支持产品开发。
+> 外国投资者可能带来国际商业资源和联系。
+> 线上平台可以让她更容易找到合适的投资者。
+
+## 白帽——事实和信息
+
+> Jia Hui 的公司现金流有限。
+> 公司需要资金来支付员工成本并支持业务发展。
+> 投资者需要清晰的财务数据和发展计划。
+> Jia Hui 必须上传准确的公司简介。
+> 清晰的商业展示可以帮助投资者了解公司。
+
+## 黑帽——风险和问题
+
+> 投资者可能会拒绝商业提案。
+> Jia Hui 可能需要让出部分公司所有权。
+> 一些线上投资者可能并不可靠。
+> 财务数据和公司资料可能存在隐私风险。
+> 语言和文化差异可能造成沟通问题。
+
+## 绿帽——创新想法
+
+> 制作双语公司简介。
+> 添加简短的产品演示视频。
+> 使用人工智能为公司匹配合适的外国投资者。
+> 提供线上会议和商业展示功能。
+> 增加投资者身份验证功能，以提高可信度。
+> 为信息和文件提供自动翻译功能。
+
+## 最重要的观察结果
+
+> **这个解决方案应该帮助 Jia Hui 安全地联系合适的外国投资者。她需要清晰的公司简介、准确的财务数据、发展计划，以及一种简单的线上商业展示方式。**
+
+# 4.8 选定概念的发展
+
+## 概念名称
+
+> **外国投资者连接平台**
+
+## 选定的想法
+
+> **一个帮助 Jia Hui 寻找并联系合适外国投资者的线上平台。**
+
+## 概念说明
+
+> **这个平台允许 Jia Hui 上传公司简介、财务数据、发展计划和商业想法。平台之后会帮助她寻找合适的外国投资者，并与他们在线沟通。**
+
+## 主要用户
+
+> **Jia Hui，一位需要更多资金来发展公司的初创企业创始人。**
+
+## 主要功能
+
+### 1. 上传公司简介
+
+Jia Hui 可以上传有关公司、团队、产品和商业目标的信息。
+
+### 2. 财务数据区域
+
+她可以提供公司的收入、支出、资金需求和增长预测。
+
+### 3. 上传发展计划
+
+Jia Hui 可以说明投资资金将如何支持公司未来的发展。
+
+### 4. 投资者匹配
+
+平台可以根据行业、投资金额和商业兴趣推荐合适的外国投资者。
+
+### 5. 线上商业展示
+
+Jia Hui 可以通过视频会议向投资者介绍她的商业想法。
+
+### 6. 信息沟通与跟进
+
+她可以联系投资者、回答问题，并在会议后继续跟进。
+
+### 7. 语言支持
+
+平台可以提供英文模板或翻译支持。
+
+### 8. 投资者验证
+
+平台可以验证投资者资料，减少遇到虚假或不可靠投资者的风险。
+
+## 概念如何运作
+
+> **首先，Jia Hui 创建账户，并上传公司简介、财务数据和发展计划。平台将她的公司与合适的外国投资者进行匹配。然后，她联系投资者，并在线展示自己的商业想法。最后，有兴趣的投资者可以与她讨论投资条件。**
+
+## 如何帮助 Jia Hui
+
+> **这个平台让 Jia Hui 有更多机会在本地市场以外寻找资金。它可以改善公司的现金流、支持产品开发，并减轻她的财务压力。**
+
+## 可能的限制
+
+> **平台不能保证一定能够成功获得投资。Jia Hui 必须提供准确的信息、保护敏感的公司数据，并在接受投资前仔细检查投资条件。**
+
+# 4.9 构思阶段结果与过程回顾
+
+## 4.9 构思结果回顾
+
+> **我们小组选择“吸引外国投资”作为最终想法。我们提出的概念是一个将 Jia Hui 与合适外国投资者连接起来的线上平台。通过这个平台，她可以上传公司简介、财务数据和发展计划，并向投资者展示她的商业想法。这个解决方案可以改善公司的现金流，并为公司未来的发展提供更多资源。**
+
+简短版本：
+
+> **我们选择线上外国投资平台作为最终概念。它帮助 Jia Hui 分享公司资料、寻找合适的投资者，并在线介绍自己的公司。这个概念可以为公司提供更多资金并支持公司发展。**
+
+## 4.9 构思过程回顾
+
+> **在构思阶段，我们小组使用了“How Might We”问题、书面头脑风暴、人工智能辅助创意、SCAMPER、投票、六顶思考帽和故事板。这些活动帮助我们提出并比较解决 Jia Hui 财务问题的不同方案。经过投票，我们选择了吸引外国投资，因为这个方案能够直接回应公司对更多资金的需求。**
+
+> **六顶思考帽活动帮助我们考虑这个想法的事实、好处、风险、感受、实施过程和创新功能。故事板则展示了完整的用户过程，包括 Jia Hui 需要更多资金、找到线上平台、上传公司资料、联系投资者，以及最后成功获得投资。**
+
+简短版本：
+
+> **我们使用了多种构思方法来提出和比较解决方案。经过投票，我们选择了吸引外国投资。六顶思考帽帮助我们分析这个想法的好处和风险，而故事板展示了 Jia Hui 如何通过线上平台找到投资者并获得资金。**
